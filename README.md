@@ -1,6 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hola, Me llamo <a href="https://freshidea.com/jonah/">Samuel</a> - NullFlowX  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h1 align="center">Hola, Me llamo <a href="https://freshidea.com/jonah/">Samuel</a> - NullFlowX  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/736x/35/42/a6/3542a6faba1b27d7056b1e6bb8942fa9.jpg" height="175px"/></a>
+
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
@@ -11,8 +13,6 @@
 <!-- RAINBOW LINE TOP -->
 <p align="center" >   
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-  <img src="https://i.pinimg.com/736x/2f/6b/2b/2f6b2b1b133b0ffce51b861e51e759ff.jpg"  width="100%" >
   
 </p>
 
@@ -29,6 +29,8 @@
 💻 Explorando el mundo del desarrollo y diseño, porque todo gran dev empezó con un "Hola, Mundo!" 👨‍💻
 
 🛠️ Roles que exploro: Programador... diseñador... aprendiz... ¿y en el futuro? Quién sabe ☺️
+
+
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
@@ -52,6 +54,25 @@
     ![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+  <a href="https://app.daily.dev/nullflowx"><img src="https://api.daily.dev/devcards/v2/EaBWFFM65h470Q6d4V4If.png?type=default&r=vcg" width="356" alt="NullFlowX's Dev Card"/></a>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align="rigth" />
+   
+   
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+ <!--- stats (start) -->
+  <table align="left">
+  <tr border="none">
+  <td width="20%" align="left">
+    
+  ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/1-repos-per-language.svg)
+  ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/4-productive-time.svg)
+  ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/merko/0-profile-details.svg)
+
+  
+  </td>
+</tr>
+</table>
   
 
 <!-- RAINBOW LINE BOT -->
@@ -63,6 +84,3 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-
-
