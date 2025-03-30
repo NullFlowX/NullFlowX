@@ -18,17 +18,27 @@
 
 
 <!-- BREVE DESCRIPCION -->
-😃 SOBRE MÍ
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-🎓 Futuro Ingeniero en Sistemas (aún aprendiendo, pero con ganas de romperla 🚀)
+<img align="left" src="https://i.pinimg.com/736x/67/40/82/67408210dc14a3be5b4c703428ac40e3.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="220" />
+<hr>
 
-🎮 Gamer & Programador en progreso → Left 4 Dead, shooters y código en mis venas 💻🎨
-
-📚 Pequeño creador de contenido que comparte lo que aprende, con errores y todo 😵‍💫
-
-💻 Explorando el mundo del desarrollo y diseño, porque todo gran dev empezó con un "Hola, Mundo!" 👨‍💻
-
-🛠️ Roles que exploro: Programador... diseñador... aprendiz... ¿y en el futuro? Quién sabe ☺️
+```
+Me-llamo-samuel
+-------------------------
+💻 Me llamo Samuel, un apasionado del desarrollo y el diseño en constante aprendizaje.
+📚 Explorando el mundo de la programación y la creación de contenido, combinando creatividad y código.
+📝 Me interesa el desarrollo de software, la inteligencia artificial y el diseño web
+🔭 Actualmente aprendiendo más sobre HTML5 y Css y entre mas lenguajes
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Mis lenguajes principales: HTML5, CSS
+🚩 Buscando mejorar cada día y crear proyectos épicos.
+💖 Me llega los errores y bug es como querer
+🎵 Disfruto la música todo tipo antiguas nuevas mientras estudio progama y juego 
+```
+<hr>
 
 
 
@@ -73,7 +83,8 @@
   </td>
 </tr>
 </table>
-  
+
+
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
