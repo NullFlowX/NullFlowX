@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola, Me llamo <a href="https://freshidea.com/jonah/">Samuel</a> - NullFlowX  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h1 align="center">Hola<a href="https://freshidea.com/jonah/"></a> - NullFlowX  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/736x/35/42/a6/3542a6faba1b27d7056b1e6bb8942fa9.jpg" height="175px"/></a>
 
@@ -28,7 +28,7 @@
 ```
 Me-llamo-samuel
 -------------------------
-💻 Me llamo Samuel, un apasionado del desarrollo y el diseño en constante aprendizaje.
+💻 hola soy un apasionado del desarrollo y el diseño en constante aprendizaje.
 📚 Explorando el mundo de la programación y la creación de contenido, combinando creatividad y código.
 📝 Me interesa el desarrollo de software, la inteligencia artificial y el diseño web
 🔭 Actualmente aprendiendo más sobre HTML5 y Css y entre mas lenguajes
