@@ -26,7 +26,7 @@
 <hr>
 
 ```
-Me-llamo-samuel
+Me
 -------------------------
 💻 hola soy un apasionado del desarrollo y el diseño en constante aprendizaje.
 📚 Explorando el mundo de la programación y la creación de contenido, combinando creatividad y código.
